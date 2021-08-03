@@ -6,6 +6,22 @@ dealing with ReactJS. This is not a book. This is not for sale. I like C/C++
 because it is faster than anything else (truth) and you can see where things
 are going (desk check) with pointers. It takes thought, not an #include or external library.  ;)
 
+Make sure you have g++ up on your system: 
+
+Windows notes: http://www.sefidian.com/2020/05/09/installing-g-c-compiler-on-windows/
+
+Mac notes: http://www.edparrish.net/common/macgpp.php
+
+Linux notes (Probably Ubuntu): https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-20-04-lts-focal-fossa-linux/
+
+I've included (or will include) compiled and un-compiled mini-programs. Look up how to do it... short and long in your terminal:
+
+$ gcc <filename.cpp> -o <filename>     <-- if you decide to steal mine and make your own changes... 
+then, 
+$ ./<filename>
+
+
+
 Emphasis areas:
 
 Pointers and Arrays
