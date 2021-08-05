@@ -28,8 +28,6 @@ Pointers and Arrays
 	Pointers
 	References
 	Passing by Reference
-	Null Pointer Exceptions
-	The new AND delete OPERATORS
 	Arrays
 	Dynamic Arrays
 	Passing an Array to a function
