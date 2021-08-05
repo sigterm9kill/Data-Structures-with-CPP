@@ -55,7 +55,7 @@ Recursion
 	Mutual Recursion
 Stacks
 
-Aueues
+Queues
 
 Lists
 
